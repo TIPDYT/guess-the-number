@@ -1,2 +1,3 @@
-pip install pyinstaller
-pyinstaller game.py
+compile:
+  pip install pyinstaller
+  pyinstaller game.py
